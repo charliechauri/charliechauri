@@ -9,6 +9,5 @@ Currently helping people to travel safely around the world and contributing to d
 ![Profile image](https://raw.githubusercontent.com/charliechauri/charliechauri/master/assets/profile.jpg)
 
 Website | Linkedin | Twitter | Instagram
-
 ------------ | ------------- | ------------ | -------------
 [charliechauri.com](http://charliechauri.com) | [Carlos Echauri](https://www.linkedin.com/in/carlosechauri) | [@charliechauri](https://twitter.com/charliechauri) | [@charliechauri](https://www.instagram.com/charliechauri)
