@@ -1,6 +1,6 @@
 # charliechauri
 
-I'm a Software Engineer with experience in different industries (travel technology, human resources, legal services and energy) within global projects and remote teams.
+I'm a Software Engineer with 5+ years of experience across multiple industries (travel technology, human resources, legal services and energy) within global projects and remote teams. Contributing in topics like: frontend, backend, test automation and CI/CD in agile environments.
 
 Currently helping people to travel safely around the world and contributing to deconstruct the legitimacy of the meritocracy
 
