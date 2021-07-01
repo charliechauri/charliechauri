@@ -1,6 +1,6 @@
 # charliechauri
 
-Hi! I'm a Software Engineer with 6+ years of experience across multiple industries (travel technology, human resources, legal services and energy) within remote teams and global projects.
+Hi! I'm a Software Engineer with 7+ years of experience across multiple industries (travel technology, human resources, legal services and energy) within remote teams and global projects.
 
 I have contributed in topics such as: frontend development, a11y compliance, backend development, software architecture, test automation, infrastructure design, workflow automation, tech stack migrations and optimizations for highly trafficked distributed systems in agile environments.
 
